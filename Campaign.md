@@ -53,9 +53,3 @@ Most of Iron Valley is setting agnostic and needs no change. These are the place
 Several oracles carry modern entries: phones, cameras, typewriters, radios, sunglasses, public transport passes, photography, filmmaking, model trains, karaoke, modern sports. The Favorite Video Game oracle is wholly modern and should be treated as unusable in this campaign unless it is being used as a joke.
 
 These are not stripped out. The book's own FAQ endorses adapting a result to the setting rather than discarding it. Adapt where a sensible medieval equivalent exists, reroll where it does not. A camera becomes a portrait. A phone call becomes a letter. A photograph becomes a sketch.
-
-## Player conventions
-
-- Ask open questions. Never present multiple choice menus.
-- The player customises freely and often. Treat every truth and oracle result as a starting point, and offer the customisation option rather than insisting on the printed text.
-- Prose style: no em dashes, no hard line breaks inside paragraphs, no fenced code blocks.

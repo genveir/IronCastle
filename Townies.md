@@ -22,14 +22,9 @@ In Iron Castle, roll on **Ancestry (Iron Castle)** instead.
 
 **3. Job.** Roll on Job. Everyone has one, whether or not they do any work.
 
-**4. Age, pronouns, gender presentation.** Roll on Age, Pronouns and Gender Presentation, or simply decide.
+**4. Age and pronouns.** Roll on Age and Pronouns, or simply decide.
 
-Gender presentation rather than sex, because the two can differ. The four options mean:
-
-- Feminine: qualities or appearance traditionally associated with women or girls.
-- Masculine: qualities or appearance traditionally associated with men or boys.
-- Androgynous: somewhere between the two.
-- Other: unlike any of the above. This covers every mode of expression beyond the accustomed ones, and fantastical ancestries and species that do not follow human gender at all.
+There is no gender presentation roll in Iron Castle. How a Townie looks, dresses and carries themselves comes from their traits, their job and their charm point, and is described in play rather than rolled.
 
 **5. Traits.** Roll on Townie Traits. How many times depends on the character's weight in the story:
 

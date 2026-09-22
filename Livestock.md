@@ -1,6 +1,6 @@
 # Livestock
 
-Fetch this when animals come up. For the rules of caring for livestock, see ic-work.
+Fetch this when animals come up. For the rules of caring for livestock, see `Work.md`.
 
 ## General
 

@@ -2,7 +2,7 @@
 
 Characters begin with three skills, one of which already has its first upgrade. Skills are bought and upgraded with satisfaction during Time Passes.
 
-Lines marked "Iron Castle note" are campaign gloss, not rules text. See ic-campaign-iron-castle.
+Lines marked "Iron Castle note" are campaign gloss, not rules text. See `Campaign.md`.
 
 ## Costs and upgrades
 
@@ -29,7 +29,7 @@ Living and interacting with nature.
 - **Riding.** Masterfully riding any kind of creature and navigating unruly terrain. Also covers land vehicles where they exist.
 - **Seafaring.** Navigating, maintaining and piloting water vessels.
 
-Iron Castle note. The book ties Mining to the Valley's history as a mining town with disused mines. In Iron Castle, read it as quarrying the bluff, working the stone of the walls and cellars, and knowing what is worth digging for underground. Seafaring has no obvious use unless a river or lake is established near the bluff.
+Iron Castle note. The book ties Mining to the Valley's history as a mining town with disused mines. In Iron Castle, read it as quarrying the bluff, working the stone of the walls and cellars, and knowing what is worth digging for underground.
 
 ## Crafting skills
 

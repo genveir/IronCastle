@@ -86,13 +86,13 @@ The culture of the Valley is built on making promises and keeping them. Some Tow
 - Roll on an oracle table to get inspiration
 - Format your query as a yes/no question and roll on the following table:
 
-| Roll | Answer |
+| Odds | Yes if you roll... |
 |---|---|
-| 1-2 | The answer is no, and it complicates things. |
-| 3-49 | The answer is no. |
-| 50-51 | You're asking the wrong question. |
-| 52-98 | The answer is yes. |
-| 99-00 | The answer is yes, and it complicates things. |
+| Almost Certain | 11+ |
+| Likely | 26+ |
+| 50/50 | 51+ |
+| Unlikely | 76+ |
+| Small Chance | 91+ |
 
 Notes. The first instinct is usually good enough. Do not second-guess it into the ground. Do not feel the fun option has to be earned.
 

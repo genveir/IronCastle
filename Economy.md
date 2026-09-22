@@ -80,11 +80,3 @@ Every transaction begins with bartering banter. Envision the two characters sizi
 Mix and match what is exchanged, as long as the totals match.
 
 If unsure what a Townie has to trade, roll the Favorite Resource or Random Item oracles.
-
-## Optional rules that touch this chapter
-
-- **Passive Favor.** If the character does something that brings happiness to a Townie, however small, gain 1 favor with them.
-- **Spending Favor You Don't Have.** Spend more favor than you have with a Townie, even one you have never met. Envision how they help, then Make a Promise with boxes equal to the favor spent. Until that promise is complete, you cannot gain favor with that Townie.
-- **Hidden Favorites.** Do not roll favored gifts at creation. Discover them naturally through roleplay, or by asking the Spirit of the Castle after losing track of time with that Townie, or by trial and error when giving a gift.
-
-Full text of all optional rules is in ic-optional-rules.
