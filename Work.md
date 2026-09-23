@@ -5,7 +5,7 @@
 - **Money is no object.** Nobody works for cash. There is more than enough for everyone. Nobody worries about rent, bills or food. People work because they draw satisfaction from their commitments, because they want to help, and for a hundred other reasons.
 - **Resources and items are abstract.** Everything is measured by value. Carrots (2) is two favor worth of carrots, not two carrots.
 - **Everything grows faster in the Valley.** The soil is extraordinarily fertile. Crops bear fruit in days. Livestock produce milk, eggs and wool faster than anywhere else.
-- **Tools are assumed.** By default the character has or can find whatever tool they need. No hoe needs to be in the inventory to till soil. The optional Tool Bonus rule changes this.
+- **Tools are assumed.** By default the character has or can find whatever tool they need. No hoe needs to be in the inventory to till soil.
 
 Do not roll for boring work. Assume the dull parts happen in the background.
 
@@ -17,7 +17,7 @@ Crops have no fixed growing times. The number of progress boxes comes from the f
 
 Any crop can grow year round. Growing what is in season is strongly recommended because in-season harvests give +1 resource per filled box in Reap the Benefits.
 
-Seeds are assumed to be available for free unless the optional Seed Troubles rule is used.
+Seeds are assumed to be available and not expensive.
 
 Recommended but not binding: only Try Your Best!! once per crop per day. Life is not all work.
 
@@ -29,6 +29,8 @@ Three steps, same as crops: Make a Promise, Try Your Best!!, Reap the Benefits.
 
 The difference is that livestock are cared for, not grown. They do not need replanting and progress does not restart from nothing each time.
 
+Animals will grow to be adults no matter if you made promises about them. Caring for them while they grow up pays in satisfaction, not products.
+
 Livestock must actually be owned before a promise can be made about them. Find them wild, trade for them, or acquire them through the narrative. The chicken comes before the egg.
 
 Bees and other producers of sweet syrupy goodness count as livestock.
@@ -39,9 +41,7 @@ Livestock produce their resource all year round. Their season is when they produ
 
 Livestock do not have to be kept for their products. Spending time with an animal, or a pet, is a legitimate promise that pays out in satisfaction.
 
-Butchering livestock for meat is not available. The game frames livestock as members of the community, cared for and treated with respect.
-
-Full livestock lists, seasons and the nine fantastical species are in the on-demand document Livestock.
+Full livestock lists, seasons, maturity times and the nine fantastical species are in the livestock document.
 
 ## Crafting
 

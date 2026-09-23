@@ -38,8 +38,6 @@ If the only trait rolled is Disabled, roll again for a second trait. A person is
 
 **7. Favored gifts.** Roll once on Favorite Resource and once on Favorite Item. Two favorite resources is a possible and intended outcome. A Townie can never have more than two favored gifts.
 
-If using the optional Hidden Favorites rule, skip this and discover them in play.
-
 **8. Optional extras.**
 
 - Charm Points, for a distinguishing visual detail.

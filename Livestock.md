@@ -6,7 +6,7 @@ Fetch this when animals come up. For the rules of caring for livestock, see `Wor
 
 Livestock are obtained by finding them wild, trading for them, or through the narrative. However they arrive, they all work the same way. You must own an animal before you can Make a Promise about it.
 
-By default livestock produce as soon as you get them. No waiting for maturity, unless the optional Livestock Babies rule is in play.
+By default adult livestock produce as soon as you get them. Like plants, animals mature very fast. Usually they will be adult from being a baby in a season.
 
 Feed is assumed. The game is not granular enough to track hay.
 
@@ -14,23 +14,21 @@ Feed is assumed. The game is not granular enough to track hay.
 
 Bees and other producers of sweet syrupy goodness count as livestock.
 
-Butchering is not available in this game. Livestock are part of the community: cared for, looked after, treated with respect.
-
-Livestock can be kept purely as companions. Make a Promise simply to spend time with an animal and take satisfaction as the reward.
+All livestock can be kept purely as companions. Make a Promise simply to spend time with an animal and take satisfaction as the reward.
 
 ## The classics
 
-| Animal | Produces | Season |
-|---|---|---|
-| Chicken | Eggs | Spring |
-| Cow | Milk | Spring |
-| Sheep | Wool | Spring |
-| Honey Bees | Honey | Summer |
-| Alpaca | Wool | Summer |
-| Duck | Eggs | Summer |
-| Goat | Milk | Fall |
-| Pig | Truffles | Fall |
-| Horse | It's a horse. You ride it around. | |
+| Animal | Produces | Season | Days to mature
+|---|---|---|---|
+| Chicken | Eggs | Spring | 5 |
+| Cow | Milk | Spring | 25 |
+| Sheep | Wool | Spring | 15 |
+| Honey Bees | Honey | Summer | 5 (a new colony)
+| Alpaca | Wool | Summer | 15
+| Duck | Eggs | Summer | 5
+| Goat | Milk | Fall | 15
+| Pig | Truffles | Fall | 20
+| Horse | It's a horse. You ride it around. | | 25
 
 ## The fantastical
 
@@ -50,7 +48,7 @@ Custom creatures exclusive to Iron Valley.
 
 ### Blorb
 
-Adorable little cousins to everyone's favorite: the slime. About three feet tall, total cuddlers, gentle and kind in nature but quick to run from trouble.
+Adorable little cousins to everyone's favorite: the slime. About a metre tall, total cuddlers, gentle and kind in nature but quick to run from trouble.
 
 A blorb needs lots of water and food, often nutritional pellets. A happy, cared for blorb eventually grows a pom-pom on its head where it stores extra nutrients. A very happy blorb realises it has no use for the pom-pom and discards it.
 
@@ -62,7 +60,7 @@ Distant relatives of the banamallard, as shown by the shared wobbly crest. Nubel
 
 A nubelli attracts moisture from the air and holds it around itself like a cocoon. Because of this they have been kept in houses and barns to fend off mold and mildew.
 
-They eat fruit and bugs. Quiet alone, but a flock can be heard for miles, with a sharp melodious cry like the fine notes of a flute. A fully wrapped nubelli can be three feet wide, hovering at the same height in the air. Its actual body is about half that, a foot and a half.
+They eat fruit and bugs. Quiet alone, but a flock can be heard for miles, with a sharp melodious cry like the fine notes of a flute. A fully wrapped nubelli can be about a metre wide, hovering at the same height in the air. Its actual body is about half that, half a metre.
 
 The cocoon is defence and nutrient storage, but nubelli cannot discard it, so they groom constantly. A rancher who grooms the cocoon regularly is a lifesaver, which is one reason nubelli have taken to farm life.
 
@@ -84,7 +82,7 @@ The people of the Valley were surprised to learn one of their local succulent sp
 
 They earned the name because most of them were too polite to move once someone started caring for them.
 
-In the wilderness, prickly dears grow the fruit on their heads as a defence mechanism. The fruit, a syrupitaya, has large spikes to deter unwanted attention. They are about three feet tall and just as wide. Cared for at a ranch, the prickly dear still grows its signature spiky fruit, and discards it easily since it is safe.
+In the wilderness, prickly dears grow the fruit on their heads as a defence mechanism. The fruit, a syrupitaya, has large spikes to deter unwanted attention. They are about a metre tall and just as wide. Cared for at a ranch, the prickly dear still grows its signature spiky fruit, and discards it easily since it is safe.
 
 Normally the inside of a syrupitaya is dense and fibrous, because the fruit focuses on hardening its spikes. When cared for and happy, the spikes are softer and pointless, and the inside is gooey and amber. An incredibly sweet syrup, the kind where a teaspoon sweetens an entire pot of coffee.
 
@@ -102,7 +100,7 @@ The ancient peoples of the Valley, who lived in harmony with the creatures of th
 
 ### Regurgeon
 
-Strange little guys, standing about three and a half feet tall. Amphibious, so a good rancher keeps a covered pond for the midday dip.
+Strange little guys, standing just over a metre tall. Amphibious, so a good rancher keeps a covered pond for the midday dip.
 
 Their body chemistry lets them hold nutrients and regurgitate them to feed their young. What they produce is not a mess but a beautiful, squishy "pearl."
 
@@ -126,9 +124,9 @@ Crab nectar can be used for almost anything: medicinal salves and ointments, coo
 
 ### Chillachonk
 
-SO FLUFFY. Five feet tall on average, though most of their incredible width is fluff. They can be either really chill or really, really hyper.
+SO FLUFFY. A metre and a half tall on average, though most of their incredible width is fluff. They can be either really chill or really, really hyper.
 
-Incredible runners and jumpers. Some have been known to jump thirty feet into the air, though it is better not to tell them they can do that. Fences lose all meaning at that height.
+Incredible runners and jumpers. Some have been known to jump ten metres into the air, though it is better not to tell them they can do that. Fences lose all meaning at that height.
 
 Over the year they continuously grow and groom their magnificent coats, leaving puffs of chilla wool stuck to bark or tumbling across the forest floor. Chillawool is incredibly soft and makes very warm clothes.
 
@@ -136,7 +134,7 @@ A happy chillachonk needs shelter from the weather, lots of hay and food pellets
 
 ### Banamallard
 
-Colourful, easily excited, speedy large birds. Eight feet tall on average, with plumage so bright they can be spotted for miles.
+Colourful, easily excited, speedy large birds. Two and a half metres tall on average, with plumage so bright they can be spotted for miles.
 
 The people of the Valley have always relied on banamallards for transport and as pack animals, though it would be a lie to call them domesticated. They do not see people as caretakers but as companions.
 
