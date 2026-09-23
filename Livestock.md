@@ -23,28 +23,28 @@ All livestock can be kept purely as companions. Make a Promise simply to spend t
 | Chicken | Eggs | Spring | 5 |
 | Cow | Milk | Spring | 25 |
 | Sheep | Wool | Spring | 15 |
-| Honey Bees | Honey | Summer | 5 (a new colony)
-| Alpaca | Wool | Summer | 15
-| Duck | Eggs | Summer | 5
-| Goat | Milk | Fall | 15
-| Pig | Truffles | Fall | 20
-| Horse | It's a horse. You ride it around. | | 25
+| Honey Bees | Honey | Summer | 5 (a new colony) |
+| Alpaca | Wool | Summer | 15 |
+| Duck | Eggs | Summer | 5 |
+| Goat | Milk | Fall | 15 |
+| Pig | Truffles | Fall | 20 |
+| Horse | It's a horse. You ride it around. | | 25 |
 
 ## The fantastical
 
 Custom creatures exclusive to Iron Valley.
 
-| Creature | Produces | Season |
-|---|---|---|
-| Blorb | Pom-Pom | Spring |
-| Nubelli | Blue Melk | Spring |
-| Gnoseshroom | Snuffle Truffle | Spring |
-| Prickly Dear | Syrupitaya | Summer |
-| Beaver Weaver | Beave Weave | Summer |
-| Regurgeon | Salmon Pearls | Fall |
-| Pitcher Crab | Crab Nectar | Fall |
-| Chillachonk | Chilla Wool | Fall |
-| Banamallard | It's a bird you ride!! | |
+| Creature | Produces | Season | Days to mature |
+|---|---|---|---|
+| Blorb | Pom-Pom | Spring | 15 |
+| Nubelli | Blue Melk | Spring | 5 |
+| Gnoseshroom | Snuffle Truffle | Spring | 5 |
+| Prickly Dear | Syrupitaya | Summer | 15 |
+| Beaver Weaver | Beave Weave | Summer | 10 |
+| Regurgeon | Salmon Pearls | Fall | 20 |
+| Pitcher Crab | Crab Nectar | Fall | 15 |
+| Chillachonk | Chilla Wool | Fall | 20 |
+| Banamallard | It's a bird you ride!! | | 25 |
 
 ### Blorb
 
@@ -60,7 +60,7 @@ Distant relatives of the banamallard, as shown by the shared wobbly crest. Nubel
 
 A nubelli attracts moisture from the air and holds it around itself like a cocoon. Because of this they have been kept in houses and barns to fend off mold and mildew.
 
-They eat fruit and bugs. Quiet alone, but a flock can be heard for miles, with a sharp melodious cry like the fine notes of a flute. A fully wrapped nubelli can be about a metre wide, hovering at the same height in the air. Its actual body is about half that, half a metre.
+They eat fruit and bugs. Quiet alone, but a flock can be heard for miles, with a sharp melodious cry like the fine notes of a flute. A fully wrapped nubelli can be a metre wide, hovering at the same height in the air. Its actual body is about half that, half a metre.
 
 The cocoon is defence and nutrient storage, but nubelli cannot discard it, so they groom constantly. A rancher who grooms the cocoon regularly is a lifesaver, which is one reason nubelli have taken to farm life.
 
@@ -100,7 +100,7 @@ The ancient peoples of the Valley, who lived in harmony with the creatures of th
 
 ### Regurgeon
 
-Strange little guys, standing just over a metre tall. Amphibious, so a good rancher keeps a covered pond for the midday dip.
+Strange little guys, standing a little over a metre tall. Amphibious, so a good rancher keeps a covered pond for the midday dip.
 
 Their body chemistry lets them hold nutrients and regurgitate them to feed their young. What they produce is not a mess but a beautiful, squishy "pearl."
 
@@ -126,7 +126,7 @@ Crab nectar can be used for almost anything: medicinal salves and ointments, coo
 
 SO FLUFFY. A metre and a half tall on average, though most of their incredible width is fluff. They can be either really chill or really, really hyper.
 
-Incredible runners and jumpers. Some have been known to jump ten metres into the air, though it is better not to tell them they can do that. Fences lose all meaning at that height.
+Incredible runners and jumpers. Some have been known to jump nine metres into the air, though it is better not to tell them they can do that. Fences lose all meaning at that height.
 
 Over the year they continuously grow and groom their magnificent coats, leaving puffs of chilla wool stuck to bark or tumbling across the forest floor. Chillawool is incredibly soft and makes very warm clothes.
 
@@ -134,7 +134,7 @@ A happy chillachonk needs shelter from the weather, lots of hay and food pellets
 
 ### Banamallard
 
-Colourful, easily excited, speedy large birds. Two and a half metres tall on average, with plumage so bright they can be spotted for miles.
+Colourful, easily excited, speedy large birds. Nearly two and a half metres tall on average, with plumage so bright they can be spotted for miles.
 
 The people of the Valley have always relied on banamallards for transport and as pack animals, though it would be a lie to call them domesticated. They do not see people as caretakers but as companions.
 

@@ -24,6 +24,8 @@ A skill adds +1 whenever it genuinely helps the action, even outside its obvious
 
 A skill's upgrade effects, such as Mechanic's extra tick on a hit, only apply when that skill is the one in play for the roll.
 
+The rules for gaining skills changed during the campaign. Up to and including session 11, skills were bought with satisfaction as a currency. That mechanic is retired: skills are now gained only through Reap the Benefits, as described in the core rules and Skills.md, and satisfaction no longer buys anything but favor. Skills Bron gained under the old rule stand as they are. Ignore any reference to "buying" a skill or saving satisfaction for one, in any document.
+
 ## Small kindnesses
 
 Minor loans and kindnesses from Townies, such as a bedroll until Bron has a bed or a loaf from the baker, happen in the fiction without spending favor. Favor is spent when Bron asks for help or a gift with real value.

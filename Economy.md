@@ -29,8 +29,9 @@ Favor is earned by paying it forward: helping a Townie, spending time with them,
 
 ### Earning favor
 
-Three main sources:
+Four main sources:
 
+- A very small amount from satisfaction.
 - A little favor from spending quality time with a Townie during Time Passes.
 - Some favor from completing a promise, via Reap the Benefits.
 - A lot of favor from giving a Townie a gift, via Sharing is Caring.

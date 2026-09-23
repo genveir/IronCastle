@@ -1,8 +1,10 @@
-# Iron Valley: Core Rules
+# Iron Castle: Core Rules
 
 ## What this game is
 
-Iron Valley is a solo roleplaying game by M. Kirin, built on Ironsworn and Ironsworn: Starforged by Shawn Tomkin. The player takes the role of someone moving into a small community and starting their life anew. Its inspirations are life and farming simulation games: Animal Crossing, Story of Seasons (Harvest Moon), and Stardew Valley.
+Iron Valley is a solo roleplaying game by M. Kirin, built on Ironsworn and Ironsworn: Starforged by Shawn Tomkin. This version (Iron Castle) has been heavily modified by the player. 
+
+The player takes the role of someone moving into a small community and starting their life anew. Its inspirations are life and farming simulation games: Animal Crossing, Story of Seasons (Harvest Moon), and Stardew Valley.
 
 This is a cozy, low-stakes game. There is no combat, no hit points, no health, no harm, no death. Characters are not heroes. The only antagonist is time.
 
@@ -68,11 +70,15 @@ When marking more than one tick, carry over into the next box. If a tick would g
 
 A promise does not need every box filled to be fulfilled. Fewer filled boxes simply means a smaller reward.
 
-If all drawn boxes fill and the promise is still not done, either draw new boxes and keep going, or treat the promise as one stage of a larger task, count it fulfilled, take the satisfaction, and Make a Promise for the next stage.
+If all drawn boxes fill and the promise is still not done, either draw new boxes and keep going, or treat the promise as one stage of a larger task, count it fulfilled, take the reward, and Make a Promise for the next stage.
 
 ## Satisfaction
 
-Fulfilling promises earns satisfaction. Satisfaction is spent during Time Passes to buy and upgrade skills. It is the only advancement currency in the game. There is no experience and no levelling.
+Satisfaction is a small reserve of goodwill: people notice when you do good things for the castle. At any time, 5 satisfaction can be traded for 1 favor with any Townie.
+
+## Learning skills
+
+Skills are learned by doing. A character learns a new skill, or improves one they have, by fulfilling a promise that genuinely exercised it, through Reap the Benefits. The skill takes effect immediately. There is no advancement currency, no experience and no levelling. 
 
 ## Time
 
@@ -84,9 +90,9 @@ The days of the week are Bread Day, Friends Day, Soup Day, Laundry Day, Rest Day
 
 The seasons are Spring, Summer, Fall, Winter.
 
-## What Iron Valley does not use
+## Iron Valley is not Ironsworn
 
-From Ironsworn and Starforged, the following are absent: progress rolls, health, harm, spirit, stress, supply, bonds, momentum, challenge ranks, conditions, legacy tracks, and impacts. Vows are called promises. Experience is called satisfaction. Assets are reworked into skills. Progress is always marked as single ticks.
+From Ironsworn and Starforged, the following are absent: experience, progress rolls, health, harm, spirit, stress, supply, bonds, momentum, challenge ranks, conditions, legacy tracks, and impacts. Vows are called promises. Assets are reworked into skills. Progress is always marked as single ticks.
 
 ## Retcon
 

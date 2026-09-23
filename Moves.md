@@ -1,6 +1,6 @@
 # Iron Valley: The Moves
 
-All ten moves are reproduced verbatim from the rulebook. Notes below each box are guidance, not rules text.
+Notes below each box are guidance, not rules text.
 
 A move's trigger is the bold condition. When the condition is met, follow the move. Moves call on other moves: when a move names another move, complete the first, then do the second.
 
@@ -39,7 +39,6 @@ A strong hit is the only outcome that does not advance time, so strong hits are 
 **If this tick fills the box**, do the following steps in order:
 
 - Envision how your characters spends the rest of the day and goes to bed. If you wish to, record the day's events in a journal.
-- If you have enough satisfaction, you may spend it to purchase or upgrade new skills.
 - Advance to the next day in the calendar. If it's a holiday, consider taking part. Regardless, take a moment to plan what you're going to do that day. Don't forget to check the weather.
 - Get out of bed and seize the day!
 
@@ -73,7 +72,7 @@ Longer promises are not a trap. Rewards scale with filled boxes, so short promis
 
 **If you wish to cancel a promise for any reason**, envision your character explaining the situation to the person most affected by the breaking of this promise (whether it is a Townie or yourself). Envision their response. If you fully filled any boxes, gain 1 satisfaction per filled box, then *Time Passes*.
 
-The culture of the Valley is built on making promises and keeping them. Some Townies will think differently of a character who breaks a promise that mattered to them. Choices have consequences in the fiction.
+The people of the castle value promises and keep them when they can. However, everyone understands that people do their best but can't always succeed, and that plans change. Cancelling a promise costs nothing in anyone's regard.
 
 ---
 
@@ -103,6 +102,7 @@ Notes. The first instinct is usually good enough. Do not second-guess it into th
 **When you are ready to fulfill a promise, complete a project, or harvest the fruits of your labor**, envision the conclusion of this commitment, then pick one:
 
 - **If fulfilling this promise fills you with satisfaction,** gain satisfaction equal to the number of filled boxes in the progress track. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track. Envision your character savoring this moment, then *Time Passes*.
+- **If fulfilling this promise has made you better at a skill,** gain the skill you learned, or improve the skill you got better at. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track. Envision your character savoring this moment, then *Time Passes*.
 - **If fulfilling this promise rewards you with resources,** gain (3) resources for each filled box in the progress track. If harvesting from a crop or livestock that is in season, gain +1 resource per filled box. Envision your character savoring this moment, then *Time Passes*.
 - **If fulfilling this promise rewards you with crafted items,** gain (X) resources, where X is the total value of the ingredients multiplied by the number of filled boxes in the progress track. Envision your character savoring this moment, then *Time Passes*.
 - **If fulfilling this promise benefits your job,** gain 1 favor with a coworker or (2) resources/items per filled box in the progress track in any combination you choose. Envision your character savoring this moment, then *Time Passes*.

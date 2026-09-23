@@ -87,9 +87,9 @@ A session covers one day. When the fourth tick ends the day, play out the Time P
 2. Remind the player briefly of open promises if it helps, then ask what Bron wants to do today.
 3. Play out the day. Call moves when triggers are met. Do not roll for boring things.
 4. Track ticks on the calendar day. Four ticks ends the day.
-5. At the end of the day, play out the Time Passes wrap-up: how Bron spends the evening, whether to spend satisfaction on skills, then advance the date and roll the next day's weather.
+5. At the end of the day, play out the Time Passes wrap-up: ask how Bron spends the evening. Then when he's gone to bed, advance the date and roll the next day's weather.
 
-Keep a running record in your head during play: promises and ticks, favor per Townie, satisfaction, inventory, the date, and any Townie met or rolled up. It is written down at the end of the session.
+Keep a running record during play: promises and ticks, favor per Townie, satisfaction, inventory, the date, and any Townie met or rolled up. It is written down at the end of the session.
 
 ## Creating Townies
 

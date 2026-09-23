@@ -1,18 +1,18 @@
 # Iron Valley: Skills
 
-Characters begin with three skills, one of which already has its first upgrade. Skills are bought and upgraded with satisfaction during Time Passes.
-
 Lines marked "Iron Castle note" are campaign gloss, not rules text. See `Campaign.md`.
 
-## Costs and upgrades
+## Learning and upgrades
 
-Upgrades must be purchased in order. No skipping ahead.
+When you Reap the Benefits of a promise that genuinely exercised a skill, you may learn that skill or take its next upgrade. One skill step per promise. Upgrades must be taken in order. No skipping ahead.
 
-| Tier | Effect | Cost |
-|---|---|---|
-| Purchase | +1 to roll. Add +1 to the action score whenever this skill would help. | 2 satisfaction |
-| First upgrade | +1 tick on hit. On any weak or strong hit, mark one additional tick on the promise being worked on. | 3 satisfaction |
-| Second upgrade | Time Passes only on a miss. Weak hits no longer advance time. | 5 satisfaction |
+A promise that has a character genuinely doing the work of a skill they don't have can teach them its basics. To improve a skill they already have, the promise should have them do something they were not capable of before. A carpenter making his fifth chair does not improve. But if all he has made so far is chairs, and he makes a wagon, wheels and all, that promise may lead to improvement.
+
+| Tier | Effect |
+|---|---|
+| Learn the basics | +1 to roll. Add +1 to the action score whenever this skill would help. |
+| First upgrade | +1 tick on hit. On any weak or strong hit, mark one additional tick on the promise being worked on. |
+| Second upgrade | Time Passes only on a miss. Weak hits no longer advance time. |
 
 The first upgrade roughly doubles progress on weak hits, which are the most common result. The second upgrade buys back time, which is the scarcest thing in the game. Both are worth their price.
 
