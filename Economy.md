@@ -54,8 +54,6 @@ Value calculation is in Sharing is Caring, and modifiers stack in the printed or
 
 A gift of a Townie's favored type on their birthday, with several hearts already filled, is enormous. Timing matters.
 
-One gift per day, total. Not one per Townie.
-
 By default the player knows a Townie's favored gifts as soon as they meet. The in-world justification is that people wear their favorites on their sleeve.
 
 Never ask a Townie directly what they like. The book is explicit: asking someone out of the blue what their favorite thing is never works, and Iron Valley provides no mechanism for it.

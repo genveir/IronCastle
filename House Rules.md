@@ -12,7 +12,7 @@ Quality time with two Townies at once counts as quality time with each, and both
 
 Dancing together can be a Townie's custom favored gift, in place of a rolled favorite.
 
-It can be given through Sharing is Caring only to a Townie whose favored gift it is, and only when there is actually dancing going on: a dance, a festival, or someone playing music. It uses the day's one gift.
+It can be given through Sharing is Caring only to a Townie whose favored gift it is, and only when there is actually dancing going on: a dance, a festival, or someone playing music.
 
 Roll Heart plus Art to set its value. The result is the final favor gained, with the favored doubling already included: miss (1), weak hit (2), strong hit (3), plus 1 on a match. The roll does not trigger its own Time Passes. Sharing is Caring's Time Passes applies as normal, and the quality time rule adds +1 favor on that tick.
 

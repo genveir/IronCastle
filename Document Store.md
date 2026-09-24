@@ -43,7 +43,7 @@ Every store document opens with a single `#` title, and everything else sits und
 
 **Every fact has exactly one home.** Do not copy a value into a second document.
 
-- **game-state.md**: the current date, the day's weather, day ticks, whether today's gift has been given, favor and hearts for every Townie, the calendar ahead, and active concerns in the wider castle. Favor and hearts live here and nowhere else.
+- **game-state.md**: the current date, the day's weather, day ticks, favor and hearts for every Townie, the calendar ahead, and active concerns in the wider castle. Favor and hearts live here and nowhere else.
 - **character-bron.md**: Bron's stats, skills, satisfaction, pack, loans, home, promise progress as a list of ticks, backstory, and character notes. Promise ticks live here and nowhere else, with any carryover rates noted on the promise's line.
 - **Promise documents**: terms (urgency, complexity, boxes, materials, carryover, standing rulings) and narrative. No ticks. The summary should say what the promise is and where it stands in the fiction in one line.
 - **Townie documents**: static facts only. Identity, favored gifts, birthday, what they wear on their sleeve, and what has been established about them in play. No favor, no hearts, no roll history.

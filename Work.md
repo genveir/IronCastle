@@ -5,7 +5,6 @@
 - **Money is no object.** Nobody works for cash. There is more than enough for everyone. Nobody worries about rent, bills or food. People work because they draw satisfaction from their commitments, because they want to help, and for a hundred other reasons.
 - **Resources and items are abstract.** Everything is measured by value. Carrots (2) is two favor worth of carrots, not two carrots.
 - **Everything grows faster in the Valley.** The soil is extraordinarily fertile. Crops bear fruit in days. Livestock produce milk, eggs and wool faster than anywhere else.
-- **Tools are assumed.** By default the character has or can find whatever tool they need. No hoe needs to be in the inventory to till soil.
 
 Do not roll for boring work. Assume the dull parts happen in the background.
 

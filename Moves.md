@@ -101,15 +101,13 @@ Notes. The first instinct is usually good enough. Do not second-guess it into th
 
 **When you are ready to fulfill a promise, complete a project, or harvest the fruits of your labor**, envision the conclusion of this commitment, then pick one:
 
-- **If fulfilling this promise fills you with satisfaction,** gain satisfaction equal to the number of filled boxes in the progress track. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track. Envision your character savoring this moment, then *Time Passes*.
-- **If fulfilling this promise has made you better at a skill,** gain the skill you learned, or improve the skill you got better at. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track. Envision your character savoring this moment, then *Time Passes*.
-- **If fulfilling this promise rewards you with resources,** gain (3) resources for each filled box in the progress track. If harvesting from a crop or livestock that is in season, gain +1 resource per filled box. Envision your character savoring this moment, then *Time Passes*.
-- **If fulfilling this promise rewards you with crafted items,** gain (X) resources, where X is the total value of the ingredients multiplied by the number of filled boxes in the progress track. Envision your character savoring this moment, then *Time Passes*.
-- **If fulfilling this promise benefits your job,** gain 1 favor with a coworker or (2) resources/items per filled box in the progress track in any combination you choose. Envision your character savoring this moment, then *Time Passes*.
+- **If fulfilling this promise fills you with satisfaction,** gain satisfaction equal to the number of filled boxes in the progress track. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track.
+- **If fulfilling this promise has made you better at a skill,** gain the skill you learned, or improve the skill you got better at. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track.
+- **If fulfilling this promise rewards you with resources,** gain (3) resources for each filled box in the progress track. If harvesting from a crop or livestock that is in season, gain +1 resource per filled box.
+- **If fulfilling this promise rewards you with crafted items,** gain (X) resources, where X is the total value of the ingredients multiplied by the number of filled boxes in the progress track.
+- **If fulfilling this promise benefits your job,** gain 1 favor with a coworker or (2) resources/items per filled box in the progress track in any combination you choose.
 
 Notes. The player chooses the reward, and the choice does not have to match the obvious source. A Townie's request can pay out in carrots. Farm work can pay out in pure satisfaction if the character loves the work and does not care about the produce.
-
-This move always advances time. Plan accordingly.
 
 ---
 
@@ -123,13 +121,10 @@ This move always advances time. Plan accordingly.
 4. If it's the Townie's birthday, multiply value by 2
 
 The modifiers above stack in the order presented.
-You can only give a gift once per day.
 
 Envision the Townie's reaction to the gift. If this brings you closer towards fulfilling a promise, mark 1 tick on it. Then *Time Passes*.
 
 Notes. Partial value can be given from a divisible stack, but not from a single object. Half a shovel is not a gift.
-
-One gift per day total, not one gift per Townie per day.
 
 ---
 
