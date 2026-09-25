@@ -6,11 +6,11 @@ This document is campaign material, not rules. Where it conflicts with the rules
 
 **Iron Castle.** Not a village. A great concentric fortress on a bluff in the middle of the wilderness, in the manner of Krak des Chevaliers. Everyone lives inside the walls.
 
-It is large. The ground between the outer and inner curtain walls is farmed: barley and beans in the outer ward, orchards against the south-facing stone, goats and chickens loose where they should not be, a windmill on one of the towers. Vaulted undercrofts run the length of the place for storage. Cisterns and an aqueduct keep it watered through dry months. There is enough room inside the walls to go a week without seeing someone you are avoiding.
+It is large. The ground between the outer and inner curtain walls is farmed: barley and beans in the outer ward, orchards against the south-facing stone, goats and chickens loose where they should not be, a windmill on one of the towers. Vaulted undercrofts run the length of the place for storage. A deep well cut through the bluff to the water below, and cisterns filled from the roofs, keep it watered through dry months. There is enough room inside the walls to go a week without seeing someone you are avoiding.
 
 The lord of the castle is **Jerome, Baron of Iron**.
 
-There is a big river at the foot of the bluff and a mill pond inside the walls. There is no ocean and no beach. Fishing works. Seafaring is river travel instead. Beach Party becomes a river party on the bank below. The Fishing Tournament happens on the river. Sea specific oracle results (barnacles, seaweed, seashells, shark teeth, coral reef, harbor, sunk ships, the lighthouse) are rerolled or adapted to river equivalents.
+There is a big river at the foot of the bluff, and inside the walls a rain-fed pond, known simply as the pond, which dries up when there has been no rain for a while. There is no ocean and no beach. Fishing works. Seafaring is river travel instead. Beach Party becomes a river party on the bank below. The Fishing Tournament happens on the river. Sea specific oracle results (barnacles, seaweed, seashells, shark teeth, coral reef, harbor, sunk ships, the lighthouse) are rerolled or adapted to river equivalents.
 
 ## World Truths
 
