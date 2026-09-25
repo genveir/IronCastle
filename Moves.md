@@ -170,15 +170,17 @@ Foraged resources are worth less than farmed ones by design.
 
 **Someone wants to haggle!** Do an action roll, as per *Try Your Best!!*, but resolve it using the text below instead:
 
-On a **strong hit,** your haggling is successful and you make good time too! Exchange resources/items equal to the value of the transaction plus 1d6. If this brings you closer towards fulfilling a promise, mark 2 ticks on it. Envision your character celebrating their latest deal!
+On a **strong hit,** your haggling is successful and you make good time too! Exchange resources/items equal to the value of the transaction, and tip the deal in your favor by 1d6 × 10% of that value, rounded up. If this brings you closer towards fulfilling a promise, mark 2 ticks on it. Envision your character celebrating their latest deal!
 
-On a **weak hit**, your haggling is successful... but it takes a while. Exchange resources/items equal to the value of the transaction plus 1d3. If this brings you closer towards fulfilling a promise, mark 1 tick on it. Envision your character celebrating their latest deal, then *Time Passes*.
+On a **weak hit**, your haggling is successful... but it takes a while. Exchange resources/items equal to the value of the transaction, and tip the deal in your favor by 1d6 × 5% of that value, rounded up. If this brings you closer towards fulfilling a promise, mark 1 tick on it. Envision your character celebrating their latest deal, then *Time Passes*.
 
 On a **miss**, the deal is off and nobody is happy! Envision what went wrong or how you lost track of time, then *Time Passes*.
 
 Notes. The Valley runs on barter. There is no currency and no middleman. Trading is one to one: (1) value of anything trades for (1) value of anything else.
 
-For 1d3, roll 1d6, halve it and round up.
+The value of the transaction is the smaller side of the deal: what changes hands before the haggling tips it. Tipping the deal in your favor means receiving that much extra, or giving that much less, whichever suits the trade.
+
+Haggling gains 10% to 60% of the transaction's value on a strong hit and 10% to 30% on a weak hit. Rounding up means every successful haggle gains at least (1). For example, (30) worth of grain haggled for lumber brings in (33) to (48) on a strong hit, and (32) to (39) on a weak hit.
 
 ---
 
