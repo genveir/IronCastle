@@ -9,7 +9,7 @@ Categories are dotted paths. `IronCastle` is the parent category and holds seven
 - **IronCastle.Places.** One document per location established in play, such as `keep.md` or `tap-room.md`. A building's rooms are `##` sections of its document. Each summary says where the place is as well as what it is, so the index reads as a map.
 - **IronCastle.Promises.** One document per open promise: its terms and its story. Written when a promise is made, when its story moves on, and archived when it is fulfilled or cancelled.
 - **IronCastle.Townies.** One document per Townie, plus `unnamed-townies.md`.
-- **IronCastle.Sessions.** Narrative session summaries, numbered `session_001.md`, `session_002.md`, and so on.
+- **IronCastle.Sessions.** Narrative session summaries, one document per session, numbered `session_001.md`, `session_002.md`, and so on. A session covers one day, so each document covers one day. Also `session-notes.md`, not indexed: one `##` section per session for rulings, roll records, and anything else worth noting that is not part of the day's story.
 - **IronCastle.Holidays.** One document per holiday. Dates are in the summaries, only retrieve what you need.
 
 Documents live only in leaves. Every tool that reads, lists or writes a specific document needs the full leaf path, for example `category: "IronCastle.Oracles"`, `filename: "Townie Traits.md"`. The two search tools are the exception: they take a category at any level, and a parent covers everything under it. Search `IronCastle` when you do not know where something lives, and a leaf when you do. Filenames include the `.md` extension and are only unique within their leaf.
@@ -40,6 +40,8 @@ Every write tool refuses to run until `request_write_permission` has been called
 - Editing an indexed document re-indexes it automatically. `index_document` and `deindex_document` are rarely needed.
 
 Every store document opens with a single `#` title, and everything else sits under `##` headers. Sections are what search chunks on, what results are labelled with, and what the section tools address, so anything that will be edited on its own gets its own `##` section. Examples are each Townie's entry in `unnamed-townies.md`, each room in a place document such as `keep.md`, and the favor table in `game-state.md`. Where a header name is ambiguous, qualify it with the headers above it, separated by `>`, for example `Outer Ward > Mill Pond`.
+
+Session summaries are written to be searched. The `#` title is the session number and the day, with the holiday, if any, after the day of the week: `# Session 16: Spring 16, Bread Day, Flea Market`. A magical day is titled by its place in the calendar: `# Session 9: Magical day before Spring 10`. Below the title, give each scene its own `##` section. A new scene starts when Bron changes place, company or task. Search results label a chunk only with the title and its `##` header, so each header must make sense on its own and say what happened and who was there, for example `## Morning: fixing Bolt's roof` or `## Evening: dinner with Thistle, who talks about Magnolia`. Do not use `###` headers. Keep a scene to a few paragraphs, and split a longer one at a natural turn. Keep the summary to the story of the day. Rulings, roll records and anything else worth noting go in `session-notes.md`, under a `##` header with the same title as the session.
 
 **Every fact has exactly one home.** Do not copy a value into a second document.
 

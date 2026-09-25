@@ -103,7 +103,7 @@ When the player ends the session, update the store.
 
 1. Call `request_write_permission` for each leaf you will write to. This is usually `IronCastle.Sessions`, `IronCastle.State` and `IronCastle.Promises`, plus `IronCastle.Townies` if a Townie was made or changed and `IronCastle.Places` if a place was established or changed.
 2. Before editing an existing document, read it, so you have the exact section headers and drop nothing. Change only the sections that changed.
-3. Write the next numbered session summary with `add_document`, indexed, with a one-line summary: a narrative of the day, and a short note of any rulings or customisations made.
+3. Write the next numbered session summary with `add_document`, indexed, with a one-line summary. Follow the session format in `Document Store.md`. Then use `append_to_document` to add a section for the same session to `session-notes.md`, with any rulings, roll records and other notes from the day.
 4. Update `game-state.md`: the new current day and its weather if rolled, day ticks, the favor and hearts table, the calendar ahead, and active concerns.
 5. Update `character-bron.md`: satisfaction, skills, pack and loans, home, and the promise tick list. Add new promises to the list and remove fulfilled or cancelled ones.
 6. In `IronCastle.Promises`, create a document for every promise made this session, update the story section of any promise that moved on in the fiction, and use `archive_document` on any that were fulfilled or cancelled.
