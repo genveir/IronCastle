@@ -26,6 +26,8 @@ When creating Townies, roll on **Ancestry (Iron Castle)**, not Fantastical Ances
 
 Opinion inside the walls is split on whether it is the stonework or the spirit that keeps magic out.
 
+What almost nobody inside the walls realises is that the castle is not empty of magic. Everything above describes wild magic, and it is what the castle believes. The spirit is magic of a different temperament: quiet, orderly, keeping arrangements. It shows only in things nobody thinks to call magic: crops that grow faster than they should, tempers that rarely flare, a place that stays consistently peaceful and well-ordered. Wild magic will not abide it, which is what keeps the woods in the woods. This is the shape of the truth, not all of it: what the spirit is, whether it has a will, and what its arrangements are, are for play to find out.
+
 Magic is uncommon here, not absent. Magic skills remain fully available to any character who wants to learn one. Nothing in this campaign forbids it.
 
 ## Reading the book in a castle
