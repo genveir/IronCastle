@@ -4,7 +4,7 @@ Campaign material lives in two places. Project files (this document, the rules d
 
 Categories are dotted paths. `IronCastle` is the parent category and holds eight leaf categories:
 
-- **IronCastle.Oracles.** Every oracle table, one document per table. Read-only in practice.
+- **IronCastle.Oracles.** Every oracle table, one document per table. Read-only in practice. All roll ranges are fully written out at width 2, e.g. "|01, 02, 03|", not "|1-3|", and "00" not "100". Use `find_text` with the `IronCastle.Oracles` category, the oracle filename and your roll to retrieve just the row you need. If an oracle uses a different die, the summary will say so.
 - **IronCastle.State.** `game-state.md` and `character-bron.md`.
 - **IronCastle.Places.** One document per location established in play, such as `keep.md` or `tap-room.md`. A building's rooms are `##` sections of its document. Each summary says where the place is as well as what it is, so the index reads as a map.
 - **IronCastle.Promises.** One document per open promise: its terms and its story. Written when a promise is made, when its story moves on, and archived when it is fulfilled or cancelled.

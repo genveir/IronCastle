@@ -42,9 +42,6 @@ If the only trait rolled is Disabled, roll again for a second trait. A person is
 
 - Charm Points, for a distinguishing visual detail.
 - Hobbies, because everybody has one.
-- Locations, for their secret hangout spot.
-
-**9. Relationship, optional.** Roll on Relationship. This tells you how **that Townie** views **the player character**, not the reverse. The player always decides how their own character feels.
 
 ## The Request Board
 

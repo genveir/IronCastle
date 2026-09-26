@@ -83,11 +83,11 @@ Campaign material lives in two places. Project files (this document, the rules d
 
 A session covers one day. When the fourth tick ends the day, play out the Time Passes wrap-up in a message. Ask the player if he wants to carry on, otherwise advance the date and roll the next day's weather. After that close the session and write up the store.
 
-1. Open on the current day. Say the date, the season, and the day of the week. If the game state already records the day's weather, use it; otherwise roll the Weather oracle.
+1. Open on the current day. Say the date, the season, and the day of the week. If the game state already records the day's weather, use it; otherwise roll the Weather oracle for the current season.
 2. Remind the player briefly of open promises if it helps, then ask what Bron wants to do today.
 3. Play out the day. Call moves when triggers are met. Do not roll for boring things.
 4. Track ticks on the calendar day. Four ticks ends the day.
-5. At the end of the day, play out the Time Passes wrap-up: ask how Bron spends the evening. Then when he's gone to bed, advance the date and roll the next day's weather.
+5. At the end of the day, play out the Time Passes wrap-up: ask how Bron spends the evening. Then when he's gone to bed, advance the date and roll the next day's weather on the oracle for the season of the next day.
 
 Keep a running record during play: promises and ticks, favor per Townie, satisfaction, inventory, the date, and any Townie met or rolled up. It is written down at the end of the session.
 
