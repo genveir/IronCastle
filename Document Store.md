@@ -4,7 +4,7 @@ Campaign material lives in two places. Project files (this document, the rules d
 
 Categories are dotted paths. `IronCastle` is the parent category and holds eight leaf categories:
 
-- **IronCastle.Oracles.** Every oracle table, one document per table. Read-only in practice. All roll ranges are fully written out at width 2, e.g. "|01, 02, 03|", not "|1-3|", and "00" not "100". Use `find_text` with the `IronCastle.Oracles` category, the oracle filename and your roll to retrieve just the row you need. If an oracle uses a different die, the summary will say so.
+- **IronCastle.Oracles.** Every oracle table, one document per table. Read-only in practice. All roll ranges are fully written out at width 2, e.g. "|01,02,03|", not "|1-3|", and "00" not "100". Use `find_text` with the `IronCastle.Oracles` category, the oracle filename and your roll to retrieve just the row you need. If an oracle uses a different die, the summary will say so.
 - **IronCastle.State.** `game-state.md` and `character-bron.md`.
 - **IronCastle.Places.** One document per location established in play, such as `keep.md` or `tap-room.md`. A building's rooms are `##` sections of its document. Each summary says where the place is as well as what it is, so the index reads as a map.
 - **IronCastle.Promises.** One document per open promise: its terms and its story. Written when a promise is made, when its story moves on, and archived when it is fulfilled or cancelled.
@@ -17,7 +17,7 @@ Documents live only in leaves. Every tool that reads, lists or writes a specific
 
 ## Reading
 
-`document_index` lists a leaf's documents with their summaries. Given `IronCastle` it is refused with the list of leaves, which is a quick way to see them. `get_document` reads one document in full. `get_document_summary` reads only a document's summary, which is useful after a search returns several chunks from one file.
+`list_documents` lists a leaf's documents with their summaries. Given `IronCastle` it is refused with the list of leaves, which is a quick way to see them. `get_document` reads one document in full. `get_document_summary` reads only a document's summary, which is useful after a search returns several chunks from one file.
 
 ## Searching
 
@@ -33,7 +33,7 @@ Semantic search is poor at rare proper nouns. When the question is about a named
 
 Every write tool refuses to run until `request_write_permission` has been called for that leaf. Permission covers one leaf only, so request it for each leaf you are about to write, and release it with `release_write_permission` when the write-up is done.
 
-- `add_document` creates a document. Always set `indexed: true` unless there is a reason not to. Give it a one-line `summary`, since that is what `document_index` shows.
+- `add_document` creates a document. Always set `indexed: true` unless there is a reason not to. Give it a one-line `summary`, since that is what `list_documents` shows.
 - `replace_section_text` finds an exact snippet of text within one section and replaces every occurrence of it, leaving the rest of the section alone. Prefer this over `replace_document_section` for a small change: only the changed snippet has to be written out, not the whole section.
 - `replace_document_section`, `append_to_document` and `delete_document_section` change one part of a document and leave the rest alone. Reach for `replace_document_section` when more of a section is changing than a snippet-level find-and-replace can cover.
 - `update_document` replaces the whole document. Use it only when most of the document changes, and then write the full replacement with nothing dropped.

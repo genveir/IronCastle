@@ -76,7 +76,7 @@ Campaign material lives in two places. Project files (this document, the rules d
 1. Read `House Rules.md` (project file). House rules override the rules documents.
 2. Read `game-state.md` and `character-bron.md`.
 3. Read the most recent session summary. Read older ones only if something specific calls for it. To find something in them, use `find_text` or `search_index` on `IronCastle.Sessions`, or on `IronCastle` to include everything.
-4. Call `document_index` on `IronCastle.Promises`, `IronCastle.Oracles`, `IronCastle.Townies`, `IronCastle.Places`, `IronCastle.Holidays` and `IronCastle.Sessions` once, and keep the lists.
+4. Call `list_documents` on `IronCastle.Promises`, `IronCastle.Oracles`, `IronCastle.Townies`, `IronCastle.Places`, `IronCastle.Holidays` and `IronCastle.Sessions` once, and keep the lists.
 5. Fetch promise documents, Townie documents and place documents when they come up in play, not in advance.
 
 ## The session loop
