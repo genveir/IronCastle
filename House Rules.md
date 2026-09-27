@@ -1,6 +1,10 @@
 # Iron Castle: House Rules
 
-Rulings made at the table. These override the rules documents where they conflict. Add new rulings here as they are made.
+Rulings made at the table. These override the rules documents where they conflict. Add new rulings here as they are made. Occasionally they will be rolled into the rest of the rules.
+
+## Last time house rules were merged with the main rules
+
+Never so far.
 
 ## Quality time favor
 
@@ -53,3 +57,27 @@ Anything chosen, worked or fine is not common: seasoned or quartersawn hardwood,
 In the crafting formula, all the common materials in a project count together as (1) of ingredient value, added to any other ingredients. Common materials cannot be given as gifts or traded, since everyone has them.
 
 Common materials are exempt from the part of Small kindnesses that says anything used up must be paid for.
+
+## Working together. 
+
+When a Townie stays to help Bron with a task, spend favor with them once, before the first roll. Every Try Your Best!! roll on that task gains that amount to the action score until Bron stops working on it or the day ends, whichever comes first. Help on another day, or after Bron has left the task, must be asked for again. Leaving the task in this sense is when Bron actually leaves to go somewhere else, i.e. the tap room, not if they are working on something bigger and taking a quick break for lunch, for example.
+
+The task is the promise as drawn. When every drawn box is full, the task is done and the help ends. Helped work cannot draw new boxes.
+
+Company costs time. When a helped roll fills a progress box on the promise being worked on, and the roll has not already passed time, Time Passes. Ticks carried over into another promise don't trigger this.
+
+Time spent being helped is not quality time and earns no favor under the Quality time favor rule. The friend is already giving Bron their time, and that is what the favor paid for.
+
+One-off help on a single roll still works as Call out for help! describes.
+
+## Money
+
+Money is in common use in Iron Castle, alongside barter. Coin trades at (1) value for (1) value like anything else, so Bron can sell to one Townie and buy from another without working out a chain of trades. 
+
+Nobody still worries about rent, bills or food, and nobody works for money: coin is a convenience, not a need. Everyone still loves to barter.
+
+Nobody haggles over coin. Let's Make a Deal's haggling option applies only when goods are traded for goods. When coin is on either side of a trade, use "Both sides are happy with this trade!". Also: nobody loves money for money's sake, it can never be given as a gift.
+
+## One deal per seller. 
+
+A single errand to one seller is one Let's Make a Deal, however many things are bought or sold there. When there's no single place to get what's needed, a short run of straightforward stops can count as one deal at the player's discretion.
