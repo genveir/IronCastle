@@ -43,3 +43,13 @@ A promise that serves a larger promise can carry some of its progress into it. J
 ## Misses as lessons
 
 A miss on a Try Your Best!! roll while practising a craft on your own work can mark 1 tick on a promise to learn that craft, since a mistake of your own is a good lesson.
+
+## Common materials
+
+Like seeds, common materials are assumed to be available and not expensive. Ordinary timber and offcuts, rubble and building stone, lime, sand, clay, straw, firewood, twine and plain sacking are there when Bron needs them: from the castle stores, the woodpile, the bluff, or a neighbour's heap. He takes what a project needs without trading, spending favor or rolling to find it, and fetching it is dull work that happens off screen.
+
+Anything chosen, worked or fine is not common: seasoned or quartersawn hardwood, dressed stone, metal and ore, glass, gems and agate, pigments, good rope, dyed or fine cloth, and anything a Townie made. These are still gained by trade, favor, promises or finding them. Wood from Root Around is a find worth having, not firewood.
+
+In the crafting formula, all the common materials in a project count together as (1) of ingredient value, added to any other ingredients. Common materials cannot be given as gifts or traded, since everyone has them.
+
+Common materials are exempt from the part of Small kindnesses that says anything used up must be paid for.
