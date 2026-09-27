@@ -103,7 +103,7 @@ Notes. The first instinct is usually good enough. Do not second-guess it into th
 
 - **If fulfilling this promise fills you with satisfaction,** gain satisfaction equal to the number of filled boxes in the progress track. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track.
 - **If fulfilling this promise has made you better at a skill,** gain the skill you learned, or improve the skill you got better at. Additionally, if fulfilling this promise has improved your bond with a Townie, you may also gain favor with them equal to the number of filled boxes in the progress track.
-- **If fulfilling this promise rewards you with resources,** gain (3) resources for each filled box in the progress track. If harvesting from a crop or livestock that is in season, gain +1 resource per filled box.
+- **If fulfilling this promise rewards you with resources,** gain (1) resource for each tick in the progress track, except the fourth tick of each box. If harvesting from a crop or livestock that is in season, the fourth ticks count too. You can only reap the benefits when at least one box is filled.
 - **If fulfilling this promise rewards you with crafted items,** gain (X) resources, where X is the total value of the ingredients multiplied by the number of filled boxes in the progress track.
 - **If fulfilling this promise benefits your job,** gain 1 favor with a coworker or (2) resources/items per filled box in the progress track in any combination you choose.
 
