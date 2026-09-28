@@ -32,7 +32,7 @@ Magic is uncommon here, not absent. Magic skills remain fully available to any c
 
 ## Reading the book in a castle
 
-Most of Iron Valley is setting agnostic and needs no change. These are the places where printed text assumes a village or a modern world. Reinterpret rather than reroll.
+Most of the book is setting agnostic and needs no change. These are the places where printed text assumes a village or a modern world. Reinterpret rather than reroll.
 
 | Book says | Read as |
 |---|---|

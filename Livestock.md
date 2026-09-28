@@ -32,7 +32,7 @@ All livestock can be kept purely as companions. Make a Promise simply to spend t
 
 ## The fantastical
 
-Custom creatures exclusive to Iron Valley.
+Creatures found nowhere but in the wilds around Iron Castle.
 
 | Creature | Produces | Season | Days to mature |
 |---|---|---|---|
@@ -78,7 +78,7 @@ Their favourite thing is walking in the shade, so expect to follow along. They a
 
 ### Prickly Dear
 
-The people of the Valley were surprised to learn one of their local succulent species could move around.
+The people of the Castle were surprised to learn one of their local succulent species could move around.
 
 They earned the name because most of them were too polite to move once someone started caring for them.
 
@@ -96,7 +96,7 @@ People have used beave weaves for time immemorial, spinning them into thread and
 
 They are not opposed to ranch life and are particularly laid back, not asking for much food or shelter. They do require a lot of wood and branches to keep teeth and claws groomed. Many ranchers have found their beaver weavers eager to chew through fences, barn walls, and even front doors.
 
-The ancient peoples of the Valley, who lived in harmony with the creatures of the forest, believed the entity overseeing the grand weave of fate was none other than a great and wise beaver weaver.
+The ancient peoples of the land around the Castle, who lived in harmony with the creatures of the forest, believed the entity overseeing the grand weave of fate was none other than a great and wise beaver weaver.
 
 ### Regurgeon
 
@@ -136,7 +136,7 @@ A happy chillachonk needs shelter from the weather, lots of hay and food pellets
 
 Colourful, easily excited, speedy large birds. Nearly two and a half metres tall on average, with plumage so bright they can be spotted for miles.
 
-The people of the Valley have always relied on banamallards for transport and as pack animals, though it would be a lie to call them domesticated. They do not see people as caretakers but as companions.
+The people of the Castle have always relied on banamallards for transport and as pack animals, though it would be a lie to call them domesticated. They do not see people as caretakers but as companions.
 
 They expect to be paid for their efforts, likely proof of their symbiotic way of life. It is not rare to spot a banamallard in the wilderness helping a smaller critter cross a river, or helping dig a burrow or build a nest.
 
@@ -144,9 +144,9 @@ Strangely industrious, which is why they fit a ranch so well. People use them to
 
 They love fruit and cannot get enough of it. They are supposed to eat grass and hay, but cannot do without fruit. Hungry banamallards have been known to feast on their rancher's orchards, so treat your mount before it treats itself to your harvest.
 
-Banamallards are most infamous for their victory over the people of the Valley, in the event known as the Banamallard War. No people or banamallard were hurt. The cause was the lack of anything happening: a local merchant who used banamallards to pull wagons had been short-changing them on their food and fruit quota. Having had enough, the entire pack sat their colourful butts down and refused to get up until all banamallards were equally fed. When commerce ground to a halt the merchant made amends quickly. The people of the time, being a little melodramatic, called this the only war ever to shatter the peace of the Valley.
+Banamallards are most infamous for their victory over the people of the Castle, in the event known as the Banamallard War. No people or banamallard were hurt. The cause was the lack of anything happening: a local merchant who used banamallards to pull wagons had been short-changing them on their food and fruit quota. Having had enough, the entire pack sat their colourful butts down and refused to get up until all banamallards were equally fed. When commerce ground to a halt the merchant made amends quickly. The people of the time, being a little melodramatic, called this the only war ever to shatter the peace of the Castle.
 
-Ever since, it has been a popular saying that when you mess with one banamallard, you mess with the entire Valley.
+Ever since, it has been a popular saying that when you mess with one banamallard, you mess with the entire Castle.
 
 ## Related oracles
 

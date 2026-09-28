@@ -1,6 +1,6 @@
-# Iron Valley: Townies
+# Iron Castle: Townies
 
-Townies are the residents of the Valley. They are the point of the game.
+Townies are the residents of the Castle. They are the point of the game.
 
 ## Make them as you go
 
@@ -10,13 +10,7 @@ Throughout creation, rolls are suggestions. If there is a feeling for how a char
 
 ## Creation steps
 
-**1. Ancestry or species.** Depends on the version of the Valley.
-
-- All human: write human, or the Townie's ethnicity if preferred.
-- Fantastical ancestries: roll on Fantastical Ancestry.
-- Animal people: roll on Animal Species.
-
-In Iron Castle, roll on **Ancestry (Iron Castle)** instead.
+**1. Ancestry.** Roll on **Ancestry (Iron Castle)**.
 
 **2. Name.** Roll on Names. The oracle gives three columns, so each roll offers three options: one cute, one cool, one sillier. Pick whichever fits. Surnames are not needed; nobody in a community this small uses them.
 
@@ -26,26 +20,30 @@ In Iron Castle, roll on **Ancestry (Iron Castle)** instead.
 
 There is no gender presentation roll in Iron Castle. How a Townie looks, dresses and carries themselves comes from their traits, their job and their charm point, and is described in play rather than rolled.
 
-**5. Traits.** Roll on Townie Traits. How many times depends on the character's weight in the story:
+**5. Traits.** Roll on Townie Traits. How many times depends on the Townie's weight in the story:
 
 - Straightforward Townies: roll once.
 - Complicated Townies: roll twice.
 - Main characters of their own stories: roll three times.
 
-If the only trait rolled is Disabled, roll again for a second trait. A person is more than their disability, and the author is explicit that disabled people should exist in the Valley and be known as people.
+If the only trait rolled is Disabled, roll again for a second trait. A person is more than their disability, and the author is explicit that disabled people should exist in the Castle and be known as people.
 
 **6. Birthday.** Roll on Random Date. Put it on the calendar. A birthday is a major favor opportunity, since gifts on a birthday have their value doubled.
 
-**7. Favored gifts.** Roll once on Favorite Resource and once on Favorite Item. Two favorite resources is a possible and intended outcome. A Townie can never have more than two favored gifts.
+**7. Favored gifts.** Roll once on Favorite Resource and once on Favorite Item. Two favorite resources is a possible and intended outcome. Either can be replaced by a favored activity, something done together such as dancing, chess, or a hand with their work, when that suits the Townie better. A Townie can never have more than two favored gifts.
 
 **8. Optional extras.**
 
 - Charm Points, for a distinguishing visual detail.
 - Hobbies, because everybody has one.
 
+## Visitors
+
+Not everyone who comes through the gate stays. A visitor who matters in a scene can be rolled up like any Townie, and gains and spends favor like one. Their birthday and favored gifts can wait until they have stayed long enough to matter.
+
 ## The Request Board
 
-Every version of the Valley has a Request Board: a physical board or place where people post jobs and ask the community for help.
+The Castle has a Request Board: a physical board or place where people post jobs and ask the community for help.
 
 It exists to meet new Townies and to supply an endless stream of promises.
 

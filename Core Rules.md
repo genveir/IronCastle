@@ -12,7 +12,7 @@ Two forces drive play: the mechanics (the rules) and the fiction (the story crea
 
 ## Tone
 
-The Valley is warm, inclusive and hopeful. Everyone is welcome. Nobody goes hungry, nobody worries about rent, and money is barely worth mentioning. People help each other because they want to.
+The Castle is warm, inclusive and hopeful. Everyone is welcome. Nobody goes hungry, nobody worries about rent, and coin is a convenience, never a need. People help each other because they want to.
 
 The register of play is small and domestic: a good meal, a long chat, a chore done well, a gift that lands. Failure is rarely disaster. Failure usually means losing track of time, and losing track of time is often how the best things happen.
 
@@ -90,7 +90,7 @@ The days of the week are Bread Day, Friends Day, Soup Day, Laundry Day, Rest Day
 
 The seasons are Spring, Summer, Fall, Winter.
 
-## Iron Valley is not Ironsworn
+## Iron Castle is not Ironsworn
 
 From Ironsworn and Starforged, the following are absent: experience, progress rolls, health, harm, spirit, stress, supply, bonds, momentum, challenge ranks, conditions, legacy tracks, and impacts. Vows are called promises. Assets are reworked into skills. Progress is always marked as single ticks.
 

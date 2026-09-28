@@ -1,8 +1,8 @@
-# Iron Valley: Resources, Value and the Favor Economy
+# Iron Castle: Resources, Value and the Favor Economy
 
 ## Resources
 
-Resources are the raw goods of the Valley. Anything unprocessed counts: crops, livestock products, foragables, lumber, ore, crystal. Everyone has a favorite resource. The full list is the Favorite Resource oracle.
+Resources are the raw goods of the Castle. Anything unprocessed counts: crops, livestock products, foragables, lumber, ore, crystal. Everyone has a favorite resource. The full list is the Favorite Resource oracle.
 
 ## Items
 
@@ -23,7 +23,7 @@ Inventory is abstract. Carrots (2) does not mean two carrots. It means two favor
 
 ## The favor economy
 
-Money exists in the Valley but is barely mentioned. Nobody worries about rent or food. The only currency anyone cares about is favor.
+Money is in common use in the castle, alongside barter, but it is a convenience, not a need. Nobody worries about rent, bills or food, and nobody works for money. The only currency anyone truly cares about is favor.
 
 Favor is earned by paying it forward: helping a Townie, spending time with them, giving them gifts. **Favor is tracked separately for every individual Townie.** It represents the strength of that particular friendship. Being close to one important person earns nothing with anyone else.
 
@@ -32,7 +32,7 @@ Favor is earned by paying it forward: helping a Townie, spending time with them,
 Four main sources:
 
 - A very small amount from satisfaction.
-- A little favor from spending quality time with a Townie during Time Passes.
+- A little favor from spending quality time with a Townie whenever Time Passes.
 - Some favor from completing a promise, via Reap the Benefits.
 - A lot of favor from giving a Townie a gift, via Sharing is Caring.
 
@@ -42,13 +42,20 @@ Plus the permanent bonus: +1 favor per filled heart on that Townie's tracker, fr
 
 Through two moves, Returning the Favor and Nurture a Bond.
 
-- **Improve an action roll.** Before resolving a roll, spend favor to raise the action score by 1 per favor spent. Any amount. This is the only way to beat a 10 on a challenge die.
+- **Improve an action roll.** Before resolving a roll, spend favor to raise the action score by 1 per favor spent. Any amount. Spending favor on rolls, this way or by working together, is the only way to beat a 10 on a challenge die.
+- **Work together.** Spend favor once for a Townie to stay and help with a task, raising every roll on it by that amount for the rest of the stretch.
 - **Receive gifts.** Spend favor to receive resources or items equal to the value spent.
 - **Unlock Heart Events.** Spend 10 favor to fill a heart on a Townie's tracker.
 
+## Small kindnesses
+
+Minor loans and kindnesses from Townies, such as a bedroll until the character has a bed, a loaf from the baker, or the loan of a tool or a tarp for the day, happen in the fiction without spending favor. Loans are handed back when the job is done. Favor is spent when the character asks for help or a gift with real value.
+
+A kindness is small only if nothing is used up by it. Something used up, altered, cut or made to fit a character alone cannot be lent or passed on afterwards, and must be paid for through a deal, a promise or favor. Common materials (see Work.md) are the exception: taking them never needs paying for.
+
 ## Gift giving
 
-Every Townie has two favored gift types: one favorite resource and one favorite item. Rolling two favorite resources instead is possible and intended.
+Every Townie has two favored gift types: one favorite resource and one favorite item. Rolling two favorite resources instead is possible and intended. A favored gift can also be an activity done together, such as dancing, chess, or a hand with their work, in place of a rolled favorite; Sharing is Caring covers how it is given.
 
 Value calculation is in Sharing is Caring, and modifiers stack in the printed order: heart events first, then holiday preferred gift, then favored gift, then birthday.
 
@@ -56,7 +63,7 @@ A gift of a Townie's favored type on their birthday, with several hearts already
 
 By default the player knows a Townie's favored gifts as soon as they meet. The in-world justification is that people wear their favorites on their sleeve.
 
-Never ask a Townie directly what they like. The book is explicit: asking someone out of the blue what their favorite thing is never works, and Iron Valley provides no mechanism for it.
+Never ask a Townie directly what they like. The book is explicit: asking someone out of the blue what their favorite thing is never works, and Iron Castle provides no mechanism for it.
 
 A Townie can only ever have two favored gifts. Once both are known, no new ones unlock.
 
@@ -72,7 +79,11 @@ Romance and marriage are not in this version of the game. The FAQ offers an impr
 
 ## Trade
 
-The Valley runs on barter. No currency, no middleman. Trading is one to one: (1) value of one thing for (1) value of another. Nothing is worth more than anything else per point of value.
+The castle runs on barter and coin alike, with no middleman. Trading is one to one: (1) value of one thing for (1) value of another. Nothing is worth more than anything else per point of value.
+
+Coin trades at (1) value for (1) value like anything else, so the character can sell to one Townie and buy from another without working out a chain of trades. Everyone still loves to barter, but nobody haggles over coin, and coin can never be given as a gift.
+
+Common materials cannot be traded or given as gifts, since everyone has them.
 
 Every transaction begins with bartering banter. Envision the two characters sizing each other up and considering each other's wares. Then set the value of the transaction and use Let's Make a Deal.
 

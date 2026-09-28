@@ -1,4 +1,4 @@
-# Iron Valley: The Moves
+# Iron Castle: The Moves
 
 Notes below each box are guidance, not rules text.
 
@@ -20,7 +20,7 @@ On a **strong hit**, you are successful. If this brings you closer towards fulfi
 
 On a **weak hit**, you succeed but lose track of time. If this brings you closer towards fulfilling a promise, mark 1 tick on it. Then, *Time Passes*.
 
-On a **miss**, you fail. Envision what went wrong or how you lost track of time, then *Time Passes*.
+On a **miss**, you fail. Envision what went wrong or how you lost track of time, then *Time Passes*. If you were practising a craft on your own work, you may mark 1 tick on a promise to learn that craft, since a mistake of your own is a good lesson.
 
 Notes. Not every action calls for this move. If the character is not working towards a promise and not doing something difficult, do not roll. Context decides: getting out of bed is not a move unless the character has been ill for days. Calling a friend is not a move. Calling a crush to ask them out is.
 
@@ -32,9 +32,11 @@ A strong hit is the only outcome that does not advance time, so strong hits are 
 
 ## TIME PASSES
 
-**Whenever you lose track of time**, mark 1 tick on the current day in the calendar.
+**Whenever you lose track of time**, mark 1 tick on the current day in the calendar. If you spent quality time with a Townie, gain 1 favor with them.
 
-**If this tick does not fill the box**, envision how time got away from your character. If you spent quality time with a Townie, gain 1 favor with them. Then, continue playing.
+Quality time with two Townies at once counts as quality time with each, and both gain the favor. A larger group does not count as quality time with anyone in particular, unless your character spends the stretch mostly with one of them, in which case it counts for that Townie.
+
+**If this tick does not fill the box**, envision how time got away from your character. Then, continue playing.
 
 **If this tick fills the box**, do the following steps in order:
 
@@ -74,11 +76,29 @@ Longer promises are not a trap. Rewards scale with filled boxes, so short promis
 
 The people of the castle value promises and keep them when they can. However, everyone understands that people do their best but can't always succeed, and that plans change. Cancelling a promise costs nothing in anyone's regard.
 
+### Bonus move: sub-promises
+
+**When you make a promise that serves a larger promise**, judge how directly it helps and set how much of its progress carries over into the larger one:
+
+| How it helps the main promise | Carryover |
+|---|---|
+| Does nothing for it | None |
+| Helps a little | 1 tick per filled box |
+| Makes it much easier | 2 ticks per filled box |
+| Is not the main task, but leads directly to its success | 3 ticks per filled box |
+| Is a hard requirement of it | Track progress on both promises in full |
+
+Mark the carryover on the main promise when a box on the sub-promise fills. The sub-promise is still reaped normally. One sub-promise can feed more than one main promise, at its own rate for each.
+
+Carryover is transitive: if carried ticks fill a box on a promise that itself carries over into another promise, that promise gets its carryover too. Nothing carries over into a promise that has already been fulfilled.
+
+Example: Build a bedframe carries 2 ticks per box into Learn carpentry and 3 into Make the tower liveable.
+
 ---
 
 ## ASK THE SPIRIT OF THE CASTLE
 
-**When you seek to resolve questions, discover details about the Valley, determine how other characters react,** you may...
+**When you seek to resolve questions, discover details about the Castle, determine how other characters react,** you may...
 
 - Go with your first instinct
 - Go with whatever seems most fun!
@@ -124,6 +144,10 @@ The modifiers above stack in the order presented.
 
 Envision the Townie's reaction to the gift. If this brings you closer towards fulfilling a promise, mark 1 tick on it. Then *Time Passes*.
 
+**If the Townie's favored gift is an activity**, such as dancing, a game of chess, or a hand with their work, you can give it only to a Townie who favors it, and only when the activity is actually on offer: a dance, a festival, or someone playing music for dancing; a board and a quiet evening for chess; the work itself waiting to be done. Do an action roll on whatever stat and skill fit the activity. The result is the final favor gained, with the favored doubling already included: miss (1), weak hit (2), strong hit (3), plus 1 on a match. The roll does not trigger its own *Time Passes*. This move's *Time Passes* applies as normal, and quality time adds its favor on that tick. With a Townie who does not favor the activity, doing it together is simply quality time.
+
+Coin can never be given as a gift. Nobody loves money for money's sake.
+
 Notes. Partial value can be given from a divisible stack, but not from a single object. Half a shovel is not a gift.
 
 ---
@@ -156,6 +180,8 @@ On a **miss**, your search is fruitless. Envision what went wrong or how you los
 | 92-98 | Rubbish (1), roll on the Rubbish Oracle |
 | 99-00 | Wild Livestock (1), roll on the livestock oracle |
 
+Wood found this way is a find worth having, not firewood.
+
 Notes. Specific search risks getting nothing. Leisurely wandering always yields something, but less of it and not necessarily what was wanted.
 
 Foraged resources are worth less than farmed ones by design.
@@ -168,7 +194,7 @@ Foraged resources are worth less than farmed ones by design.
 
 **Both sides are happy with this trade!** Exchange resources/items equal to the value of the transaction. Then *Time Passes*.
 
-**Someone wants to haggle!** Do an action roll, as per *Try Your Best!!*, but resolve it using the text below instead:
+**Someone wants to haggle!** Only when goods are traded for goods; nobody haggles over coin. Do an action roll, as per *Try Your Best!!*, but resolve it using the text below instead:
 
 On a **strong hit,** your haggling is successful and you make good time too! Exchange resources/items equal to the value of the transaction, and tip the deal in your favor by 1d6 × 10% of that value, rounded up. If this brings you closer towards fulfilling a promise, mark 2 ticks on it. Envision your character celebrating their latest deal!
 
@@ -176,7 +202,9 @@ On a **weak hit**, your haggling is successful... but it takes a while. Exchange
 
 On a **miss**, the deal is off and nobody is happy! Envision what went wrong or how you lost track of time, then *Time Passes*.
 
-Notes. The Valley runs on barter. There is no currency and no middleman. Trading is one to one: (1) value of anything trades for (1) value of anything else.
+A single errand to one seller is one deal, however many things are bought or sold there. When there's no single place to get what's needed, a short run of straightforward stops can count as one deal at the player's discretion.
+
+Notes. The castle runs on barter and coin alike, with no middleman. Trading is one to one: (1) value of anything, coin included, trades for (1) value of anything else.
 
 The value of the transaction is the smaller side of the deal: what changes hands before the haggling tips it. Tipping the deal in your favor means receiving that much extra, or giving that much less, whichever suits the trade.
 
@@ -202,8 +230,16 @@ Use the Heart Events oracle for the content of the moment.
 
 **Call out for help!** Before resolving an action roll, spend any number of favor with a Townie to increase your action score by the same amount. Envision how this Townie arrives just in time to save your bacon, then continue with the move as instructed.
 
-**Receive a gift!** Whenever you are missing resources or items, need something specific, or just want to be surprised with a gift, spend favor with a Townie then gain resources/items equal to the (value) spent. Envision how a Townie surprises you with this gift then *Ask the Spirit of the Castle* if you and the Townie lose track of time. If the answer is yes, *Time Passes*.
+**Receive a gift!** Whenever you are missing resources or items, need something specific, or just want to be surprised with a gift, spend favor with a Townie then gain resources/items equal to the (value) spent. Envision how a Townie surprises you with this gift then *Ask the Spirit of the Castle* if you and the Townie lose track of time. If the answer is yes, *Time Passes*. Small kindnesses and loans cost no favor; see Economy.md.
 
-Notes. Calling for help is the only way in the game to beat a 10 on a challenge die. It is expensive but sometimes failure is not an option.
+**Work alongside you!** When a Townie stays to help you with a task, spend any amount of favor with them once, before the first roll. Every *Try Your Best!!* roll on that task adds that amount to the action score until you stop working on it or the day ends, whichever comes first. Help on another day, or after you have left the task, must be asked for again. Leaving the task means actually going somewhere else, such as the tap room, not taking a quick break for lunch in the middle of something bigger.
+
+The task is the promise as drawn. When every drawn box is full, the task is done and the help ends. Helped work cannot draw new boxes: ticks beyond the last drawn box are lost.
+
+Company costs time. When a helped roll fills a progress box on the promise being worked on, and the roll has not already passed time, *Time Passes*. Ticks carried over into another promise don't trigger this.
+
+Time spent being helped is not quality time and earns no favor from *Time Passes*. The friend is already giving you their time, and that is what the favor paid for.
+
+Notes. Spending favor on a roll, by calling for help or working alongside a Townie, is the only way in the game to beat a 10 on a challenge die. It is expensive but sometimes failure is not an option.
 
 Do not regift. Do not take a Townie's favored item from them and hand it back for doubled favor.

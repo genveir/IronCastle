@@ -1,10 +1,10 @@
-# Iron Valley: Doing the Work
+# Iron Castle: Doing the Work
 
 ## Default assumptions about work
 
 - **Money is no object.** Nobody works for cash. There is more than enough for everyone. Nobody worries about rent, bills or food. People work because they draw satisfaction from their commitments, because they want to help, and for a hundred other reasons.
 - **Resources and items are abstract.** Everything is measured by value. Carrots (2) is two favor worth of carrots, not two carrots.
-- **Everything grows faster in the Valley.** The soil is extraordinarily fertile. Crops bear fruit in days. Livestock produce milk, eggs and wool faster than anywhere else.
+- **Everything grows faster in the Castle.** The soil is extraordinarily fertile. Crops bear fruit in days. Livestock produce milk, eggs and wool faster than anywhere else.
 
 Do not roll for boring work. Assume the dull parts happen in the background.
 
@@ -50,11 +50,19 @@ Crafting covers everything made by hand: cooking, blacksmithing, turning raw goo
 
 Materials must be in hand before starting. No cake without flour and eggs. No repaired shovel without the broken shovel and some lumber.
 
+**Common materials.** Like seeds, common materials are assumed to be available and not expensive. Ordinary timber and offcuts, rubble and building stone, lime, sand, clay, straw, firewood, twine and plain sacking are there when the character needs them: from the castle stores, the woodpile, the bluff, or a neighbour's heap. The character takes what a project needs without trading, spending favor or rolling to find it, and fetching it is dull work that happens off screen. Common materials cannot be traded or given as gifts, since everyone has them.
+
+Anything chosen, worked or fine is not common: seasoned or quartersawn hardwood, dressed stone, metal and ore, glass, gems and agate, pigments, good rope, dyed or fine cloth, and anything a Townie made. Squared blocks picked from a sound, fine-grained bed are good building stone, not rubble. These are gained by trade, favor, promises or finding them.
+
+**Tools and kit.** Tools and everyday kit, such as a saw, a pick, charcoal or paper, are not tracked as ingredients and are not used up by a project.
+
 By default, crafting assumes intermediate steps happen automatically. Wheat can be an ingredient in a cake because the character is assumed to mill it into flour along the way. Players who want to craft every stage manually may do so, and the game notes that doing it the long way produces items worth much more favor, so there is a mechanical reward for the effort. This flexibility is fully intended and can be applied selectively.
 
 Crafting almost always uses the crafted items option in Reap the Benefits:
 
 **Total value of ingredients x filled progress boxes = value of item**
+
+All the common materials in a project count together as (1) of ingredient value, added to any other ingredients.
 
 ## Foraging, fishing, catching bugs and finding inspiration
 
@@ -80,6 +88,6 @@ Work is measured in projects, not hours. Think of jobs the way a sitcom treats t
 
 Projects work exactly like promises: Make a Promise, Try Your Best!!, Reap the Benefits.
 
-Days off are fine. Nobody in the Valley wants a job treated like a city job.
+Days off are fine. Nobody in the Castle wants a job treated like a city job.
 
 The job option in Reap the Benefits allows mixing favor with a coworker and resources or items, which makes work a good route to friendship.

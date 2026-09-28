@@ -1,4 +1,4 @@
-# Iron Valley: Skills
+# Iron Castle: Skills
 
 Lines marked "Iron Castle note" are campaign gloss, not rules text. See `Campaign.md`.
 
@@ -14,13 +14,15 @@ A promise that has a character genuinely doing the work of a skill they don't ha
 | First upgrade | +1 tick on hit. On any weak or strong hit, mark one additional tick on the promise being worked on. |
 | Second upgrade | Time Passes only on a miss. Weak hits no longer advance time. |
 
-The first upgrade roughly doubles progress on weak hits, which are the most common result. The second upgrade buys back time, which is the scarcest thing in the game. Both are worth their price.
+A skill adds +1 whenever it genuinely helps the action, even outside its obvious home. For example, Art applies to a conversation that turns on art. A skill's upgrade effects, such as Mechanic's extra tick on a hit, only apply when that skill is the one in play for the roll.
+
+The first upgrade roughly doubles progress on weak hits, which are the most common result. The second upgrade buys back time, which is the scarcest thing in the game.
 
 ## Nature skills
 
 Living and interacting with nature.
 
-- **Creature Handling.** Befriending and caring for the countless little critters and creatures of the Valley. This is the main skill for caring for livestock.
+- **Creature Handling.** Befriending and caring for the countless little critters and creatures of the Castle. This is the main skill for caring for livestock.
 - **Farming.** All elements of farm life, from hoeing to sowing, watering and harvesting. Anything to do with crops.
 - **Fishing.** Knowledge of fish and aquatic life, handling of bait, and the act of fishing with rod, spear or any other tool.
 - **Foraging.** Scavenging the wilderness for berries, mushrooms, medicinal herbs, food or building materials.
@@ -29,7 +31,7 @@ Living and interacting with nature.
 - **Riding.** Masterfully riding any kind of creature and navigating unruly terrain. Also covers land vehicles where they exist.
 - **Seafaring.** Navigating, maintaining and piloting water vessels.
 
-Iron Castle note. The book ties Mining to the Valley's history as a mining town with disused mines. In Iron Castle, read it as quarrying the bluff, working the stone of the walls and cellars, and knowing what is worth digging for underground.
+Iron Castle note. The book ties Mining to its setting's history as a mining town with disused mines. In Iron Castle, read it as quarrying the bluff, working the stone of the walls and cellars, and knowing what is worth digging for underground.
 
 ## Crafting skills
 
@@ -42,7 +44,7 @@ Transforming resources or making things by hand.
 - **Mechanic.** Repairing complex mechanisms and making them from scratch.
 - **Tailoring.** Turning fibers into thread, thread into fabric, and fabric into garments. Anything wearable can be tailored.
 
-Iron Castle note. The book describes Mechanic in modern or futuristic terms, mentioning televisions and cars. In a medieval Valley, read it as clockwork, gearing, mills, locks, winches, pumps, and mechanisms generally.
+Iron Castle note. The book describes Mechanic in modern or futuristic terms, mentioning televisions and cars. In a medieval castle, read it as clockwork, gearing, mills, locks, winches, pumps, and mechanisms generally.
 
 ## Movement skills
 
@@ -54,7 +56,7 @@ Iron Castle note. The book describes Mechanic in modern or futuristic terms, men
 
 - **Lift & Push.** Moving heavy things. Helping someone move house. Couches are very heavy.
 - **Shoot.** Aiming and firing projectile tools, from a bow to a sling to a paper airplane.
-- **Strike.** Defending yourself with a melee weapon or tool. The people of the Valley try never to use violence, but sometimes trouble finds you. Also good for piñatas.
+- **Strike.** Defending yourself with a melee weapon or tool. The people of the Castle try never to use violence, but sometimes trouble finds you. Also good for piñatas.
 - **Throw.** Sending an object as far as possible with great force. Accuracy is Shoot; distance is Throw.
 - **Wrestle.** Tussling, or handling an overexcited pet, or getting a friend who has had too much to drink into bed.
 
@@ -85,13 +87,13 @@ Iron Castle note. Science sits awkwardly in a medieval setting. Read it as alche
 
 ## Magic skills
 
-Whether magic exists depends on the version of the Valley. These are the common schools.
+These are the common schools.
 
 - **Candle Magic.** Manipulating heat and energy, usually as candle-like flames. Light, warmth, a small fire, an unfortunate number of moths.
 - **Emotion Magic.** Perceiving the emotions and surface thoughts of others, and projecting your own as a tangible force. Anger as flames, sadness as a small rain cloud. It cannot change another person's emotions, only perceive them and manifest your own.
 - **Enchantment.** Applying magical properties to inanimate objects. Requires the right components.
 - **Fortune Telling.** Cards, dice, tea leaves. Insight into future events and the romantic compatibility of others.
-- **Garden Magic.** The most popular school in the Valley. Manipulating soil and earth, moving rocks by incantation, hoeing without lifting a finger. Adepts make crops grow faster and tastier.
+- **Garden Magic.** The most popular school around the Castle. Manipulating soil and earth, moving rocks by incantation, hoeing without lifting a finger. Adepts make crops grow faster and tastier.
 - **Hat Tricks.** Entertaining, captivating and funny feats of magical prowess. Eggs from behind ears, whole chickens, doves at will, endless handkerchiefs.
 - **Liquid Magic.** Manipulating liquids. Walking on a pond, stopping a river, keeping rain off. Works on anything liquid, soup included.
 - **Moon Magic.** Manipulating darkness. Invisibility, obscuring vision. Adepts are rumoured to make bottomless pockets from a handful of darkness.
