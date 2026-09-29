@@ -2,11 +2,12 @@
 
 Campaign material lives in two places. Project files (this document, the rules documents, the campaign document, house rules) are read-only and stable. Everything that changes during play lives in the document store, reached through the localMCP tools.
 
-Categories are dotted paths. `IronCastle` is the parent category and holds eight leaf categories:
+Categories are dotted paths. `IronCastle` is the parent category and holds nine leaf categories:
 
 - **IronCastle.Oracles.** Every oracle table, one document per table. Read-only in practice. All roll ranges are fully written out at width 2, e.g. "|01,02,03|", not "|1-3|", and "00" not "100". Use `find_text` with the `IronCastle.Oracles` category, the oracle filename and your roll to retrieve just the row you need. If an oracle uses a different die, the summary will say so.
 - **IronCastle.State.** `game-state.md` and `player-character.md`.
 - **IronCastle.Places.** One document per location established in play, such as `keep.md` or `tap-room.md`. A building's rooms are `##` sections of its document. Each summary says where the place is as well as what it is, so the index reads as a map.
+- **IronCastle.Customs.** One document per custom established in play: a religious service, a toast, the castle's rules for a game, anything people do in a shape they follow. Each says whose custom it is. It describes the custom, not the times it happened.
 - **IronCastle.Promises.** One document per open promise: its terms and its story. Written when a promise is made, when its story moves on, and archived when it is fulfilled or cancelled.
 - **IronCastle.Townies.** One document per Townie, plus `unnamed-townies.md` and a document for each group of travellers.
 - **IronCastle.Sessions.** Narrative session summaries, one document per session, numbered `session_001.md`, `session_002.md`, and so on. A session covers one day, so each document covers one day.
@@ -52,4 +53,5 @@ Session summaries are written to be searched. The `#` title is the session numbe
 - **Townie documents**: static facts only. Identity, favored gifts, birthday, what they wear on their sleeve, and what has been established about them in play. No favor, no hearts, no roll history.
 - **Group documents**: people who arrive and leave together, such as a household, a caravan or a troupe, share one document in `IronCastle.Townies`, named for the group. It holds established details only, with one `##` section for each named person and one for the group as a whole. A member who is rolled up gets their own Townie document, which points to the group document, and their section is removed from it, as with `unnamed-townies.md`. The group document is kept after the group leaves.
 - **Place documents**: locations established at the table. The campaign document covers the castle's overall layout; the place documents record what has been seen and fixed in play. Each place lives in one document only; another place's document may mention it by name and point to it, but does not repeat its description.
+- **Custom documents**: the form of a custom established at the table: what happens and in what order, who keeps it, what it means, and its etiquette. Not its instances: when it happened and what was said are in the session summaries, and other documents name the custom rather than repeat it. A custom tied to a fixed calendar date belongs in its holiday document instead. Make a document only for something with a shape people follow, not for how people ordinarily do things. A custom named only once can stay in the session summary until it comes up again.
 - **Session summaries**: narrative only. What happened, not where things stand.

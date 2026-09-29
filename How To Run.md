@@ -78,8 +78,8 @@ Campaign material lives in two places. Project files (this document, the rules d
 1. Read `House Rules.md` (project file). House rules override the rules documents.
 2. Read `game-state.md` and `player-character.md`.
 3. Read the most recent session summary. Read older ones only if something specific calls for it. To find something in them, use `find_text` or `search_index` on `IronCastle.Sessions`, or on `IronCastle` to include everything.
-4. Call `list_documents` on `IronCastle.Promises`, `IronCastle.Oracles`, `IronCastle.Townies`, `IronCastle.Places`, `IronCastle.Holidays` and `IronCastle.Sessions` once, and keep the lists.
-5. Fetch promise documents, Townie documents and place documents when they come up in play, not in advance.
+4. Call `list_documents` on `IronCastle.Promises`, `IronCastle.Oracles`, `IronCastle.Townies`, `IronCastle.Places`, `IronCastle.Customs`, `IronCastle.Holidays` and `IronCastle.Sessions` once, and keep the lists.
+5. Fetch promise documents, Townie documents, place documents and custom documents when they come up in play, not in advance.
 
 ## The session loop
 
@@ -103,7 +103,7 @@ If a Townie has appeared without being rolled up, their established details are 
 
 When the player ends the session, update the store.
 
-1. Call `request_write_permission` for each leaf you will write to. This is usually `IronCastle.Sessions`, `IronCastle.SessionNotes`, `IronCastle.State` and `IronCastle.Promises`, plus `IronCastle.Townies` if a Townie was made or changed and `IronCastle.Places` if a place was established or changed.
+1. Call `request_write_permission` for each leaf you will write to. This is usually `IronCastle.Sessions`, `IronCastle.SessionNotes`, `IronCastle.State` and `IronCastle.Promises`, plus `IronCastle.Townies` if a Townie was made or changed, `IronCastle.Places` if a place was established or changed, and `IronCastle.Customs` if a custom was established or changed.
 2. Before editing an existing document, read it, so you have the exact section headers and drop nothing. Change only the sections that changed.
 3. Write the next numbered session summary with `add_document`, indexed, with a one-line summary. Follow the session format in `Document Store.md`. Then create the session's notes document in `IronCastle.SessionNotes` with `add_document`, not indexed, numbered to match (`notes_017.md` for `session_017.md`), with any rulings and other notes from the day.
 4. Update `game-state.md`: the new current day and its weather if rolled, day ticks, the favor and hearts table, the calendar ahead, and active concerns.
@@ -111,8 +111,9 @@ When the player ends the session, update the store.
 6. In `IronCastle.Promises`, create a document for every promise made this session, update the story section of any promise that moved on in the fiction, and use `archive_document` on any that were fulfilled or cancelled.
 7. Create a document for every Townie rolled up this session. For existing Townies, use `append_to_document` or a section edit only where something new was established about them.
 8. In `IronCastle.Places`, add a room or feature as a new section of the place it belongs to, create a document for a genuinely new place with a summary that says where it is, and edit the section of any that changed. When a change supersedes an older detail, replace the old line rather than adding a new one beside it.
-9. If a new house rule was made, draft the addition for the player, since `House Rules.md` is a project file and cannot be written from here.
-10. Call `release_write_permission` for each leaf you wrote to.
+9. In `IronCastle.Customs`, create a document for a custom newly established at the table, and edit the section of any whose form changed. Record the form only; what happened on the day goes in the session summary.
+10. If a new house rule was made, draft the addition for the player, since `House Rules.md` is a project file and cannot be written from here.
+11. Call `release_write_permission` for each leaf you wrote to.
 
 Then tell the player briefly what was written.
 
