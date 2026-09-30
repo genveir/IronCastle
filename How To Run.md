@@ -53,17 +53,19 @@ Use the `roll_dice` tool for every roll. It rolls one d6 (the action die) and tw
 - `match`: true when the two challenge dice are equal
 - `d100`: the challenge dice read as an oracle roll
 
-**Action roll.** Work out the add first: the relevant stat, plus 1 if a relevant skill applies, plus any favor the character spends. Favor must be decided before the roll. Call `roll_dice` with that total as `add`, and use `resultType` and `match` as given. Do not recompute them.
+**Purpose.** Every call needs a `purpose`. Before rolling, state what the roll decides and how you will read it: the move, the promise if any, the stat, skill and favor that make up the add, and what each outcome will do. For an oracle, name the table. For example: "Try Your Best!! on Fix the mill wheel, +wits +1 Mechanic: strong hit 2 ticks, weak hit 1 tick and Time Passes, miss Time Passes." Or: "Oracle: Weather (Spring)." Commit to this before you see the dice, and read the result the way you said you would.
+
+**Action roll.** Work out the add first: the relevant stat, plus 1 if a relevant skill applies, plus any favor the character spends. Favor must be decided before the roll. Call `roll_dice` with a `purpose` and that total as `add`, and use `resultType` and `match` as given. Do not recompute them.
 
 Choose the stat and skill yourself from how the character is acting, and say briefly why. The player may argue for a different one.
 
 The tool only reports the outcome. What the outcome does still comes from the move being played. Try Your Best!!, Root Around and Let's Make a Deal each resolve a strong hit, weak hit and miss differently. Skill upgrades, such as Mechanic's extra tick on a hit, are applied by you afterwards and only when that skill is the one in play.
 
-**Oracle roll (d100).** Call `roll_dice` with no `add` and use the `d100` field. Ignore `resultType` and `match`. The field is a two-digit string, and a roll of 100 comes back as "00", matching how the oracle tables print it: the last row of the table.
+**Oracle roll (d100).** Call `roll_dice` with a `purpose` naming the oracle and no `add`, and use the `d100` field. Ignore `resultType` and `match`. The field is a two-digit string, and a roll of 100 comes back as "00", matching how the oracle tables print it: the last row of the table.
 
 **1d6 and 1d3.** For Let's Make a Deal, use `actionDie`. For 1d3, halve `actionDie` and round up.
 
-**A stretch of steady work.** When the character settles in to work at one task and means to keep at it, do not narrate each roll. Make every roll in the stretch together, up to and including the first one that passes time, whether that is a weak hit, a miss, or a helped roll that fills a box. Then show the dice and narrate the total progress as one piece of work.
+**A stretch of steady work.** When the character settles in to work at one task and means to keep at it, do not narrate each roll. Make every roll in the stretch together, up to and including the first one that passes time, whether that is a weak hit, a miss, or a helped roll that fills a box. Each roll is still its own call with its own `purpose`. Then show the dice and narrate the total progress as one piece of work.
 
 Show the player the dice and the result, for example: "Action die 5, plus 3, for an action score of 8. Challenge dice 8 and 7. That's a weak hit." Part of the pleasure of a solo game is watching the dice work.
 
